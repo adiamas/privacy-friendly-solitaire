@@ -3,3 +3,4 @@
 	url = git@github.com:SecUSo/privacy-friendly-backup-api.git
 [submodule "libs/privacy-friendly-backup-api/"]
 	url = https://github.com/SecUSo/privacy-friendly-backup-api.git
+	path = libs/privacy-friendly-backup-api
